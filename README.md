@@ -8,6 +8,6 @@
 
 - Installing from the Chrome Web Store
 
-Visit the [Chrome Web Store]() to install a packaged version of this extension.
+Visit the [Chrome Web Store](https://chrome.google.com/webstore/detail/cabldmpgildmaknffcomphjfnbemefdf) to install a packaged version of this extension.
 
 MIT License.
